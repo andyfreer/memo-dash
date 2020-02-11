@@ -2,7 +2,7 @@ import MemoDashLib from './memo-dash.lib'
 import { testUsers, testMemos } from '../test-utils/test-data'
 import { combineMemoId } from '../store/reducers/memo.reducer'
 
-jest.mock('@dashevo/dash-schema/dash-schema-lib')
+jest.mock('@andyfreer/dash-platform-prototype/dash-schema-lib')
 
 describe('MemoDashLib', () => {
   let memoDashLib

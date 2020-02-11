@@ -1,5 +1,5 @@
-import data from '@dashevo/dash-schema/dash-core-daps/memodash/memodash-client-fixtures'
-import dashMemoSchema from '@dashevo/dash-schema/dash-core-daps/memodash/memodash-schema'
+import data from '@andyfreer/dash-platform-prototype/dash-core-daps/memodash/memodash-client-fixtures'
+import dashMemoSchema from '@andyfreer/dash-platform-prototype/dash-core-daps/memodash/memodash-schema'
 
 import faker from 'faker'
 

@@ -1,5 +1,5 @@
-import MemoDashClient from '@dashevo/dash-schema/dash-core-daps/memodash/memodash-client'
-import { Schema } from '@dashevo/dash-schema/dash-vmn'
+import MemoDashClient from '@andyfreer/dash-platform-prototype/dash-core-daps/memodash/memodash-client'
+import { Schema } from '@andyfreer/dash-platform-prototype/dash-vmn'
 
 import generateTestData from './test-data-generator'
 

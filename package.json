@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://dashevo.github.io/memo-dash",
   "dependencies": {
-    "@dashevo/dash-schema": "dashevo/dash-platform.git#v3_develop",
+    "@andyfreer/dash-platform-prototype": "andyfreer/dash-platform-prototype",
     "connected-react-router": "^4.5.0",
     "dayjs": "^1.7.7",
     "debug": "^4.1.0",

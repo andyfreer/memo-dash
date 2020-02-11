@@ -1,6 +1,6 @@
 import { connect } from 'react-redux'
 import { push } from 'connected-react-router'
-import { Schema } from '@dashevo/dash-schema/dash-vmn'
+import { Schema } from '@andyfreer/dash-platform-prototype/dash-vmn'
 
 import HeaderComponent from './header.component'
 import { getPathname } from '../../store/selectors'
